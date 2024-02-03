@@ -1,1 +1,1 @@
-# kubernetes-practice1
+# kubernetes-objects
